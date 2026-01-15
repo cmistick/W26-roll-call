@@ -7,11 +7,11 @@ Winter 2026 semester student roll call activity designed to practice open source
 |------|---------------|--------------|
 | Prof L. Corrales | -- | -- |
 | Nathan Allen | -- | -- |
-| Becca Knoops | -- | -- |
+| Shreyanshi Garg | -- | -- |
+| Rebecca Knoops | -- | -- |
 | Owen Kordyzon | -- | -- |
 | Elizabeth Lane | -- | -- |
 | Manu Li | -- | -- |
-| Salem Loucks | -- | -- |
 | Ray Lyu | -- | -- |
 | Carly Mistick | -- | -- |
 | Claire Mollen | -- | -- |
