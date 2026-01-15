@@ -11,7 +11,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Rebecca Knoops | -- | -- |
 | Owen Kordyzon | -- | -- |
 | Elizabeth Lane | -- | -- |
-| Manu Li | -- | -- |
+| Manu Li | JoshLi12 | https://github.com/JoshLi12/W26-roll-call |
 | Ray Lyu | -- | -- |
 | Carly Mistick | cmistick | [github.com/cmistick/W26-roll-call](https://github.com/cmistick/W26-roll-call) |
 | Claire Mollen | -- | -- |
