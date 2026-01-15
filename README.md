@@ -16,7 +16,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Carly Mistick | cmistick | [github.com/cmistick/W26-roll-call](https://github.com/cmistick/W26-roll-call) |
 | Claire Mollen | clairemol | [https://github.com/clairemol/W26-roll-call](https://github.com/clairemol/W26-roll-call) |
 | Benjamin Radmore | bradmore | [https://github.com/bradmore/W26-roll-call.git](https://github.com/bradmore/W26-roll-call) |
-| Eleanor Tchida | -- | -- |
+| Eleanor Tchida | ellietchida | [https://github.com/ellietchida/W26-roll-call.git](https://github.com/ellietchida/W26-roll-call.git) |
 | Chloe Tyer | 27ctyer | git@github.com:27ctyer/W26-roll-call.git |
 
 ## Instructions
